@@ -19,8 +19,12 @@
   <img align="center" alt="SQLSERVER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  </div>
+
+##
+
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Alexandre-apf92/count.svg" /></p>
+
   
-  ##
   <div> 
   <a href="https://api.whatsapp.com/send?phone=5547999500532" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 	
   <a href = "mailto:alexandredf78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
