@@ -1,5 +1,5 @@
 
-- 🌱 Cursando 2º Semestre em Analise e Desenvolvimento de Sistemas ...
+- 🌱 Cursando 3º Semestre em Analise e Desenvolvimento de Sistemas ...
 
 <div>
   <a href="https://github.com/Alexandre-apf92">
