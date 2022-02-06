@@ -28,7 +28,10 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  </div>
 -->
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Alexandre-apf92/count.svg" /></p>  
+  <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Alexandre-apf92/count.svg" /></p></a>
+  
+  <p align="center" link="default">VISITORS</p>
+  
   <div align="center">   
  
   ![Snake animation](https://github.com/Alexandre-apf92/Alexandre-apf92/blob/output/github-contribution-grid-snake.svg)
