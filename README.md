@@ -1,5 +1,5 @@
 <div align="center">
-- 🌱 Cursando 3º Semestre em Analise e Desenvolvimento de Sistemas ...
+- 🌱 Cursando 4º Semestre em Analise e Desenvolvimento de Sistemas ...
   </div>
   
 ##
