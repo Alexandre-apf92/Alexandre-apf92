@@ -1,5 +1,5 @@
 <div align="center">
-- 🌱 Cursando 4º Semestre em Analise e Desenvolvimento de Sistemas ....
+- 🌱 Cursando 4º Semestre em Análise e Desenvolvimento de Sistemas ....
     
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -28,19 +28,9 @@
     <a href="https://github.com/Alexandre-apf92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-apf92&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  </br>
-
-  
-  <div align="center">   
- 
-  ![Snake animation](https://github.com/Alexandre-apf92/Alexandre-apf92/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+</br>
 
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Alexandre-apf92/count.svg" /></p></a>
-  
-  <p align="center" link="default">VISITORS</p>
-
   
 <!--
 **Alexandre-apf92/Alexandre-apf92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
